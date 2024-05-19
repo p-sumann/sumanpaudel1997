@@ -6,7 +6,7 @@
 <p align="left">I am an AI Engineer with 3+ years of expierence in machine learning, deep learning, computer vision and NLP tasks. I am very much passionate about building AI-based applications and research on machine/deep learning. </p>
 
 I love to do following whenever I am free: 
-- Research on emerging trends on AI also experimenting them.
+- Research on emerging trends on AI and also experimenting them.
 - Deploying ML and DL models to production along with maintenance and re-training models over time.
 - Learn new things continuously and adopt new emerging trends in AI.
 
