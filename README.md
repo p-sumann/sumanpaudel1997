@@ -3,6 +3,12 @@
 ###
 
 <p align="left">My name is Suman Paudel and I am from Nepal.</p>
+<p align="left">I am an AI Engineer with 3+ years of expierence in machine learning, deep learning, computer vision and NLP tasks. I am very much passionate about building AI based applications. </p>
+
+I love to do following whenever I am free: 
+- Research on emerging trends on AI also experimenting them.
+- Deploying ML and DL models to production along with maintenance and re-training models over time.
+- Learn new things continuously and adopt new emerging trends in AI.
 
 ###
 
@@ -10,7 +16,7 @@
 
 ###
 
-<p align="left">✨ AI Engineer<br>📚 Generative AI enthusiasts<br>🎯 Early Adopter<br>🎲 Continous Learner</p>
+<p align="left">✨ AI Engineer<br>📚 Generative AI enthusiasts<br>🎯 Early Adopter<br>🎲 Continous Learner <br> 🚀 Currently Working on Generative AI Project using Gemini </p>
 
 ###
 
