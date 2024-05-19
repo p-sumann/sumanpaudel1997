@@ -66,7 +66,7 @@ I love to do following whenever I am free:
   <a href="https://www.instagram.com/iamsumanpaudel__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="dastonsuman1997" target="_blank">
+  <a href="<dastonsuman1997@gmail.com>" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/dastonsuman1997" target="_blank">
