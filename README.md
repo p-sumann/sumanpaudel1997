@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Suman Paudel and I am from Nepal.</p>
-<p align="left">I am an AI Engineer with 3+ years of expierence in machine learning, deep learning, computer vision and NLP tasks. I am very much passionate about building AI-based applications and research on machine/deep learning. </p>
+<p align="left">I am an ML/AI Engineer with 3+ years of expierence in machine learning, deep learning, computer vision and NLP tasks. I am very much passionate about building AI-based applications and research on machine/deep learning. </p>
 
 ###
 
