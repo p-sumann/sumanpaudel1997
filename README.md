@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ AI Engineer<br>📚 Generative AI enthusiasts<br>🎯 Early Adopter<br>🎲 Continous Learner <br> 🚀 Currently Researching on Hate Speech Classification and Target Indetification. </p>
+<p align="left">✨ AI Engineer<br>📚 Generative AI enthusiasts<br>🎯 Early Adopter<br>🎲 Continous Learner <br> 🚀 Currently Researching on Hate Speech Classification and Target Identification. </p>
 
 I love to do following whenever I am free: 
 - Research on emerging trends on AI and also experimenting them.
